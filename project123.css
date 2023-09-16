@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  header {
+    width: 100%;
+    height: 167px;
+    background-color: rgb(254, 246, 237);
+  }
+  
+  .nav-logo-container {
+    width: 100%;
+    background-color: rgb(254, 246, 237);
+    padding-bottom: 25px;
+  }
+  
+  .logo-container {
+    padding: 0;
+  }
+  
+  .logo {
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  .navigation li {
+    text-align: center;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black;
+    font-family: "Special Elite", "cursive";
+  }
+  
+  hr {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+  }
+  
+  
